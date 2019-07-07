@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/boy_formula"
+
+            android:title="@string/boy_formula" />
+        <item
+            android:id="@+id/bumchick_babloo"
+
+            android:title="@string/bumchick_babloo" />
+        <item
+            android:id="@+id/capdt"
+
+            android:title="@string/capdt" />
+        <item
+            android:id="@+id/chai_bisket"
+            android:title="@string/chai_bisket" />
+        <item
+            android:id="@+id/dhethadi"
+
+            android:title="@string/dhethadi" />
+
+        <item
+            android:id="@+id/funpataka"
+
+            android:title="@string/funpataka" />
+
+        <item
+            android:id="@+id/girl_formula"
+
+            android:title="@string/girl_formula" />
+        <item
+            android:id="@+id/jalsaa_raayudu"
+            android:title="@string/jalsaa_raayudu" />
+        <item
+            android:id="@+id/krazy_khanna"
+            android:title="@string/krazy_khanna" />
+        <item
+            android:id="@+id/mahathalli"
+
+            android:title="@string/mahathalli" />
+        <item
+            android:id="@+id/my_village_show"
+
+            android:title="@string/my_village_show" />
+        <item
+            android:id="@+id/pakkinti_kurradu"
+
+            android:title="@string/pakkinti_kurradu" />
+
+        <item
+            android:id="@+id/teluguone"
+
+            android:title="@string/teluguone" />
+
+        <item
+            android:id="@+id/viva"
+
+            android:title="@string/viva" />
+        <item
+            android:id="@+id/wirally"
+            android:title="@string/wirally" />
+
+        <item
+            android:id="@+id/yodhatv"
+            android:title="@string/yodha_tv" />
+        <item
+            android:id="@+id/zflicks"
+            android:title="@string/z_flicks" />
+
+
+    </group>
+
+
+</menu>

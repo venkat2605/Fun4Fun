@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Fun4Fun</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Tell a Friend</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+    <string name="close_player_activity">Close Player activity</string>
+
+
+    <string name="boy_formula">Boy Formula</string>
+    <string name="bumchick_babloo">Bumchick Babloo</string>
+    <string name="capdt">CAPDT</string>
+    <string name="chai_bisket">Chai Bisket</string>
+    <string name="dhethadi">Dhethadi</string>
+    <string name="teluguone">TeluguOne</string>
+    <string name="funpataka">FunPataka</string>
+    <string name="girl_formula">Girl Formula</string>
+    <string name="jalsaa_raayudu">Jalsaa Raayudu</string>
+    <string name="my_village_show">My Village Show</string>
+    <string name="mahathalli">Mahathalli</string>
+    <string name="pakkinti_kurradu">Pakkinti Kurradu</string>
+    <string name="viva">VIVA</string>
+    <string name="wirally">Wirally</string>
+    <string name="krazy_khanna">Krazy Khanna</string>
+    <string name="yodha_tv">YODHA TV</string>
+    <string name="z_flicks">Z Flicks</string>
+
+
+
+
+
+    <string name="url_boy_formula">UC7GJw9AAmDPE654RFQkSX-Q</string>
+    <string name="url_bumchick_babloo">UC911tvF9ZY5OpTqRAcLqFzg</string>
+    <string name="url_capdt">UCm2Q5o3WbfDbgVnLZFF9wLA</string>
+    <string name="url_chai_bisket">UCswaOEJ1UiLSiXR3s0Dw7vg</string>
+    <string name="url_dhethadi">UCT6wAVoLBracsaySHIJFDAA</string>
+    <string name="url_teluguone">UCXjhJbviBl0M4JAC3cxDXqA</string>
+    <string name="url_funpataka">UC8K9ptYhFDTtnUDoz95WJQw</string>
+    <string name="url_girl_formula">UCfrNV2iJ9LnHcOsdyhYyYew</string>
+    <string name="url_jalsaa_raayudu">UC-OwuCbONS4p3gSDzJhFj6A</string>
+    <string name="url_mahathalli">UCFnLGH9BGpJLJMMlRMr-f5Q</string>
+    <string name="url_my_village_show">UCnprfRlJB7WE6zAEaOAfVYA</string>
+    <string name="url_pakkinti_kurradu">UCt7g-x9jftwdyoJqYR7mWjQ</string>
+    <string name="url_viva">UCf52XN2UWpZu_mo5vyZ6RuA</string>
+    <string name="url_wirally">UCYhE3LuAdW98CdwoemBsrdA</string>
+    <string name="url_krazy_khanna">UCT36mOSQVfnvMMsiqnr3LkA</string>
+    <string name="url_yodha_tv">UCmoVZJr_7qXUSSs_qtn5weQ</string>
+    <string name="url_z_flicks">UCuG2UJkz3YDrItquG4syhmw</string>
+
+
+    <string name="title_of_video">Title of Video</string>
+    <string name="time_of_video">Time of Video</string>
+
+
+
+
+
+</resources>
