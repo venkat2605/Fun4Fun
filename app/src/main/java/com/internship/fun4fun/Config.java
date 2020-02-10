@@ -5,7 +5,7 @@ public final class Config {
     private Config() {
     }
 
-    public static final String YOUTUBE_API_KEY = "AIzaSyBEuXRU903OxdL9RHNbif6msNQD9itMLoc";
+    public static final String YOUTUBE_API_KEY = "YOUR_API_KEY";
     public static final String FINAL_URL = "https://www.googleapis.com/youtube/v3/search?&maxResults=50&part=snippet,id&channelId=";
 
     public static final String PARAM_CHANNEL_ID_YOUTUBE = "channelId=";
